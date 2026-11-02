@@ -27,7 +27,8 @@ Khi sử dụng chung một Chrome Profile cho cả GitHub cá nhân và GitHub 
 **Sơ đồ kiến trúc:**
 ```mermaid
 flowchart TB
-    A["GOOGLE CHROME<br/>Developer Browser Environment"]
+    A["GOOGLE CHROME
+<br/>Developer Browser Environment"]
 
     A --> B["PERSONAL<br/>Tài khoản cá nhân"]
     A --> C["COMPANY_WORK<br/>Tài khoản công ty"]
@@ -324,7 +325,7 @@ Ngoài ra, kiểm tra Console để tìm JavaScript Errors và các thông báo 
 - Xác nhận Status Code và dữ liệu trả về.
 - Ghi lại nguyên nhân và báo cáo cho Developer phụ trách nếu lỗi thuộc Backend.
 
-Sơ đồ quy trình
+**Sơ đồ quy trình**
 ```text
 1. IDENTIFY
    Xác định Request lỗi
