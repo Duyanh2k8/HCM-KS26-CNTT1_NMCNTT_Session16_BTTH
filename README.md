@@ -64,9 +64,9 @@ BOOKMARK_BAR
 **Giải thích:**
 |Thư mục|Mục đích|
 |---|---|
-|01_DEVELOPMENT|Lưu trữ nền tảng quản lý mã nguồn và tài liệu lập trình.|
-|02_DEBUGGING|Truy cập website cần kiểm thử và tài liệu hỗ trợ debug.|
-|03_API_TOOLS|Lưu công cụ định dạng JSON và kiểm thử API.|
+|`01_DEVELOPMENT`|Lưu trữ nền tảng quản lý mã nguồn và tài liệu lập trình.|
+|`02_DEBUGGING`|Truy cập website cần kiểm thử và tài liệu hỗ trợ debug.|
+|`03_API_TOOLS`|Lưu công cụ định dạng JSON và kiểm thử API.|
 ### 4. Xử lý tình huống đồng nghiệp mượn máy tính trong 5 phút
 **Lựa chọn:** Guest Profile (Chế độ khách).
 
