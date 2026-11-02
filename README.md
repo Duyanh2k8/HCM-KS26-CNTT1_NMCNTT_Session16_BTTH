@@ -20,9 +20,9 @@ Khi sử dụng chung một Chrome Profile cho cả GitHub cá nhân và GitHub 
 Đề xuất mô hình gồm 3 Profile:
 |Profile|Tên đặt|Mục đích sử dụng|
 |---|---|---|
-|1|Personal|Sử dụng GitHub cá nhân, email cá nhân, mạng xã hội và các hoạt động riêng tư.|
-|2|Company_Work|Sử dụng GitHub công ty, email công việc, tài liệu dự án, hệ thống quản lý công việc và môi trường phát triển.|
-|3|Sandbox_Test|Kiểm thử website, API, đăng nhập tài khoản thử nghiệm và debug ứng dụng.|
+|1|`Personal`|Sử dụng GitHub cá nhân, email cá nhân, mạng xã hội và các hoạt động riêng tư.|
+|2|`Company_Work`|Sử dụng GitHub công ty, email công việc, tài liệu dự án, hệ thống quản lý công việc và môi trường phát triển.|
+|3|`Sandbox_Test`|Kiểm thử website, API, đăng nhập tài khoản thử nghiệm và debug ứng dụng.|
 
 **Sơ đồ kiến trúc:**
 ```mermaid
