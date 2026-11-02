@@ -27,7 +27,7 @@ Khi sử dụng chung một Chrome Profile cho cả GitHub cá nhân và GitHub 
 **Sơ đồ kiến trúc:**
 ```mermaid
 flowchart TB
-    A["**GOOGLE CHROME**<br/>Developer Browser Environment"]
+    A["GOOGLE CHROME<br/>Developer Browser Environment"] BƯỚC 1: IDENTIFY
 
     A --> B["PERSONAL<br/>Tài khoản cá nhân"]
     A --> C["COMPANY_WORK<br/>Tài khoản công ty"]
